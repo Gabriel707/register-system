@@ -5,5 +5,5 @@
 In order to run this poroject in yourt local machine, please do the following on Git Bash and/or Terminal:
 
 ```
-java Main.java
+java App.java
 ```

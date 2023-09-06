@@ -2,8 +2,8 @@
 
 > Project status: In development.
 
-In order to run this poroject in yourt local machine, please do the following:
+In order to run this poroject in yourt local machine, please do the following on Git Bash and/or Terminal:
 
 ```
-npm install example
+java Main.java
 ```

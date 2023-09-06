@@ -4,6 +4,6 @@
 
 In order to run this poroject in yourt local machine, please do the following:
 
-'''
+```
 npm install example
-'''
+```
